@@ -1,0 +1,19 @@
+
+body {
+	background-color: pink;
+}
+
+header {
+	font-family: 'arial';
+	font-size: 20px;
+}
+
+input {
+	height: 50px;
+	width: 150px;
+}
+
+button {
+	display: block;
+	margin-top: 20px;
+}
